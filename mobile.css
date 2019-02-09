@@ -1,0 +1,17 @@
+@media only screen and (max-width: 750px) {
+    body {
+        background-color: blue;
+
+       #menu ul li a {
+    padding: 0;
+    line-height: 30px;
+    text-align: right;
+    }
+    .toggle-menu{
+	display: block;
+	float: right;
+	margin-top: 30px;
+    }
+    #menu {display: none;
+    }
+}

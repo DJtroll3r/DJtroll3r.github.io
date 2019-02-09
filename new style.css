@@ -1,0 +1,77 @@
+body{
+	background: <image "WP_Encrusted_X_-2560x1440_00000" /image>; 
+	border: 50px solid red;
+}
+
+#jk{
+	background: black;
+	padding: 0 10px; 
+	max-width: 150px; 
+	margin: 0 auto;
+}
+
+#halo{
+	background: black; 
+	padding: 10px;
+	max-width: 150px;
+	margin: 0 auto;
+}
+
+a{
+	color: red;
+}
+a:hover{
+	font-family: 'Yellowtail', cursive;
+}
+
+a{
+	font-family: 'Creepster', cursive;
+}
+
+.slideshow {
+	margin: 0% auto;
+	width: 50%;
+}
+
+
+.slideshow img {
+    max-width: 400px;
+    height: auto;
+    margin: 0 auto;
+    display: block;
+}
+
+
+#solo { 
+    padding: 0 10px;
+	height: 300px; 
+	width: 450px;
+	display: block;
+	margin: 0 auto;
+	background-image: url(omgoshfuunny.jpg);
+}
+
+#solo:hover {
+	background-image: url(herro.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+body{
+	text-align: center;
+	color:red;
+}
+
+
+.toggle-menu{
+	display: none;
+	margin: 0% auto;
+}
+
+#menu ul {
+    list-style: none;
+    display: inline-flex;
+}
+
+#menu li {
+     padding: 0 10px;   
+}
